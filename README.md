@@ -36,7 +36,13 @@ This LSMW Program creates the KDDC Packaging master data.
 - Sub-Project: PACK_MASTER_UPD
 - Object: PACK_MASTER_UPD
 
+Excel Formatting
+
+Part 1
+
 ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_kddc_part1.png)
+
+Part 2
 
 ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_kddc_part2.png)
 
@@ -59,7 +65,13 @@ This LSMW Program Creates the Packaging instruction, Packaging Determination and
 - Sub-Project: PACKAGING
 - Object: PACKAGING
 
+Excel Formatting
+
+Part 1
+
 ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_instr_part1.png)
+
+Part 2
  
 ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_instr_part2.png)
 
