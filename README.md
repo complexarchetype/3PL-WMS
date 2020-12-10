@@ -7,9 +7,9 @@ Warehouse Management System for 3PL Logistics
 
 This LSMW Program creates the AFS Packaging master data.
 
-Project: ZPSA
-Sub-Project: PACK_MASTER_UPD
-Object: PACK_MASTER_UPD
+- Project: ZPSA
+- Sub-Project: PACK_MASTER_UPD
+- Object: PACK_MASTER_UPD
 
 File Preparation Rules:
 
@@ -25,9 +25,9 @@ Caution: While completing the file ensure that the measurement unit of the packa
 
 This LSMW Program creates the KDDC Packaging master data.
 
-Project: ZPSA
-Sub-Project: PACK_MASTER_UPD
-Object: PACK_MASTER_UPD
+- Project: ZPSA
+- Sub-Project: PACK_MASTER_UPD
+- Object: PACK_MASTER_UPD
 
 File Preparation Rules:
 
