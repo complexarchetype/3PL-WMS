@@ -11,8 +11,6 @@ Project: ZPSA
 Sub-Project: PACK_MASTER_UPD
 Object: PACK_MASTER_UPD
 
-![]"C:\Users\Saif Ahmed Chowdhury\Downloads\Screenshot 2020-12-10 221249.png"
-
 File Preparation Rules:
 
 1.	All Columns highlighted in Green must not be changed. They should merely be copied over to fill new rows.
