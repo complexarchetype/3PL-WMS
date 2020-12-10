@@ -38,7 +38,7 @@ This LSMW Program creates the KDDC Packaging master data.
 
 Excel Formatting
 
-![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_kddc_part1.png)
+![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_kddc_part1png.png)
 
 ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_kddc_part2.png)
 
@@ -63,8 +63,6 @@ This LSMW Program Creates the Packaging instruction, Packaging Determination and
 
 Excel Formatting
 
-Part 1
-
 ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_instr_part1.png)
  
 ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_inst_part2.png)
@@ -88,6 +86,8 @@ This LSMW Program updates new Condition Records for KDDC Billing
 - Sub-Project: CONDT_UPD
 - Object: CONDT_UPD
 
+Excel Formatting
+
 ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_condt_upd.png)
  
 
@@ -105,6 +105,8 @@ This LSMW Program updated existing Packaging Instruction for KDDC
 - Project: ZPSA
 - Sub-Project: CONDT_UPD
 - Object: CONDT_UPD
+
+Excel Formatting
 
  ![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_inst_upd.png)
 
