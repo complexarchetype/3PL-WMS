@@ -11,6 +11,10 @@ This LSMW Program creates the AFS Packaging master data.
 - Sub-Project: PACK_MASTER_UPD
 - Object: PACK_MASTER_UPD
 
+Screenshot
+
+![alt text](https://github.com/complexarchetype/3PL-WMS/blob/main/Images/pack_master_afs_part1.png)
+
 File Preparation Rules:
 
 1.	All Columns highlighted in Green must not be changed. They should merely be copied over to fill new rows.
